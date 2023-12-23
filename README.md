@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **affanansarii7860@gmail.com**
 
+- ⚡ Fun fact **When not coding, you'll find me playing cricket/reading**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/affanansarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="affanansarii" height="30" width="40" /></a>
