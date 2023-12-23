@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Affan Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.  My journey in the world of coding began with a love for turning ideas into interactive and functional web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affanansarii&label=Profile%20views&color=0e75b6&style=flat" alt="affanansarii" /> </p>
 
