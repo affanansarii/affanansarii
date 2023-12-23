@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Affan Ansari</h1>
-<h3 align="center">A passionate frontend developer from India.  My journey in the world of coding began with a love for turning ideas into interactive and functional web applications.</h3>
+<h3 align="center">A passionate frontend developer from India. My journey in the world of coding began with a love for turning ideas into interactive and functional web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affanansarii&label=Profile%20views&color=0e75b6&style=flat" alt="affanansarii" /> </p>
 
@@ -11,9 +11,13 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
+- 👨‍💻 All of my projects are available at [https://affanansarii.github.io/portfolio/](https://affanansarii.github.io/portfolio/)
+
 - 💬 Ask me about **Java, JavaScript, React**
 
 - 📫 How to reach me **affanansarii7860@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VB2GIkH0mZfN0vLTOrVs_71UbZ8BYdWt/view?usp=sharing](https://drive.google.com/file/d/1VB2GIkH0mZfN0vLTOrVs_71UbZ8BYdWt/view?usp=sharing)
 
 - ⚡ Fun fact **When not coding, you'll find me playing cricket/reading**
 
