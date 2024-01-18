@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://affanansarii.github.io/portfolio/](https://affanansarii.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://affanansarii.github.io/portfolio/](https://affanansarii.github.io/)
 
 - 💬 Ask me about **Java, JavaScript, React**
 
