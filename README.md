@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **affanansarii7860@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VB2GIkH0mZfN0vLTOrVs_71UbZ8BYdWt/view?usp=sharing](https://drive.google.com/file/d/1VB2GIkH0mZfN0vLTOrVs_71UbZ8BYdWt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VB2GIkH0mZfN0vLTOrVs_71UbZ8BYdWt/view?usp=sharing)
 
 - ⚡ Fun fact **When not coding, you'll find me playing cricket/reading**
 
