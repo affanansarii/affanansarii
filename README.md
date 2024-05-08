@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Online Auto Parts Shop](https://656ece3a7830fc00a35560fa--delicate-eclair-7306e2.netlify.app/)
+- 🔭 I’m currently working on [Movix](https://movix-jet-alpha.vercel.app/)
 
 - 🌱 I’m currently learning **JavaScript, React**
 
