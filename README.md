@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **affanansarii7860@gmail.com**
 
-- 📄 Know about my experiences [Resume](file:///C:/Users/adnan/Downloads/affanAnsarii-fullStackDeveloper.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JPSovuQC2xMoxYaGDMURzdmav0OjZm-9/view?usp=sharing)
 
 - ⚡ Fun fact **When not coding, you'll find me playing cricket/reading**
 
