@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Redux**
 
-- 👨‍💻 All of my projects are available at [https://affanansarii.github.io/](https://affanansarii.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://affanansarii.vercel.app)
 
 - 💬 Ask me about **Java, JavaScript, React, Redux**
 
