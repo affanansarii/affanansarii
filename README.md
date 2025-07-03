@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affanansarii" alt="affanansarii" /></a> </p>
 
-- 🔭 I’m currently working on [Movix](https://movix-jet-alpha.vercel.app/)
+- 🔭 I’m currently working on [Car Rental](https://car-rental-kappa-rouge.vercel.app)
 
 - 🌱 I’m currently learning **JavaScript, React, Redux**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **affanansarii7860@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VB2GIkH0mZfN0vLTOrVs_71UbZ8BYdWt/view?usp=sharing](https://drive.google.com/file/d/1VB2GIkH0mZfN0vLTOrVs_71UbZ8BYdWt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](file:///C:/Users/adnan/Downloads/affanAnsarii-fullStackDeveloper.pdf)
 
 - ⚡ Fun fact **When not coding, you'll find me playing cricket/reading**
 
